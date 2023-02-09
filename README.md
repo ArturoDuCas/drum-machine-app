@@ -1,6 +1,6 @@
 # About this project :computer:
 
-This is the fourth project of the "Front End Development Libraries" Free Code Camp course. 
+This is the third project of the "Front End Development Libraries" Free Code Camp course. 
 
 **Objective:**  Build an app that is functionally similar to this: https://drum-machine.freecodecamp.rocks/.
   
